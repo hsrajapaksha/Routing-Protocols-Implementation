@@ -56,5 +56,3 @@ This project demonstrates the setup and configuration of three primary routing p
 ![PC Ping](https://github.com/user-attachments/assets/42e9f26d-26d7-4585-a222-f42e11707cc0)
 
 ---
-
-If you want, I can also **turn this into a professional one-page PDF layout** with headings, table formatting for protocols, and embedded image for a project submission-ready version. Do you want me to do that?
